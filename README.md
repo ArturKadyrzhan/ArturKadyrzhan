@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArturKadyrzhanov
+- 👋 Hi, I’m Artur
 - 👀 I’m interested in Machine learning&Computer Vision
 - 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate on ...
