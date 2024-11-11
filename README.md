@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artur
 - 👀 I’m interested in Machine learning&Computer Vision
-- 🌱 I’m currently learning Artificial Intelligence 
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arthur.kadyrzhanov@gmail.com
 
