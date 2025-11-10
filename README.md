@@ -1,4 +1,4 @@
- 📫 How to reach me arthur.kadyrzhanov@gmail.com
+arthur.kadyrzhanov@gmail.com
 
 <!---
 ArturKadyrzhan/ArturKadyrzhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
